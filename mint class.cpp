@@ -1,7 +1,7 @@
 //Author: Andrzej Jabłoński
 //This is a copy of an old project
 //the mint class can be used like a normal int
-//just set the mint::mod 
+//just set the mint::Mod 
 //and write long, clean expressions without worrying about overflows!
 #include "bits/stdc++.h"
 using namespace std;
